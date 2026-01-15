@@ -1,3 +1,5 @@
+<img width="1364" height="731" alt="screenshot_2026-01-15_12-29-37" src="https://github.com/user-attachments/assets/af8a1590-697c-4bda-abe8-cd19f3f5fb9a" />
+
 Mostra um preview do arquivo .ase.
 
 Show a preview of .ase file.
