@@ -1,3 +1,5 @@
+<img width="1361" height="727" alt="screenshot_2026-01-15_12-25-12" src="https://github.com/user-attachments/assets/28e97b03-8cc2-4d17-bace-fe74c3b67f38" />
+
 Mostra a tabela do banco de dados e, se houver chave estrangeira, indica a qual tabela e coluna ela se refere.  
 
 Displays the database table and, if there is a foreign key, indicates which table and column it refers to.
