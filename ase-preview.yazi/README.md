@@ -1,27 +1,25 @@
 <img width="1364" height="731" alt="screenshot_2026-01-15_12-29-37" src="https://github.com/user-attachments/assets/af8a1590-697c-4bda-abe8-cd19f3f5fb9a" />
 
-Mostra um preview do arquivo .ase.
-
 Show a preview of .ase file.
 
-# Instalação
+# Install
 
 ```sh
 ya pkg add Ntzzn-Dev/yazi-plugins:ase-preview
 ```
 
-# Dependencias
-É necessário apenas um dos dois comandos funcionando. O plugin detecta automáticamente se um dos dois existe.
-
+# Dependencies
 Only one of the two commands needs to be working. The plugin automatically detects if either one exists.
 
+- aseprite-thumbnailer  
+or  
+- libresprite-thumbnailer  
+or  
 - libresprite  
-ou
-- aseprite-thumbnailer
 
-# Uso
+# Use
 
-no arquivo `~/.config/yazi/yazi.toml`
+in `~/.config/yazi/yazi.toml` file
 
 ```toml
 [plugin]

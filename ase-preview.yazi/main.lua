@@ -11,7 +11,7 @@ function M:peek(job)
         return ya.preview_widget(job, err)
     end
 
-    local delay = rt.preview.image_delay / 1000
+    local delay = (rt.preview.image_delay / 1000) + 2000
     ya.sleep(math.max(0, start + delay - os.time()))
 
     local _, err = ya.image_show(cache, job.area)
